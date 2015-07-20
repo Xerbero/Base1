@@ -1,0 +1,39 @@
+TARIFFE
+
+se rientra da 0 a 2500 al mese
+	zona europea: 3.4% per transazione + .35 cent
+	per qualsiasi altra valuta: da 0.4% a 1.8%
+	se il pagamento avviene tramite prepagata o carta di credito: 5.4% + .35 cent
+
+se rientra da 2500 a 10000 al mese
+	zona europea: 2.7% + .35 cent
+	per qualsiasi altra valuta: 
+	se il pagamento avviene tramite prepagata o carta di credito: 
+
+se rientra da 10000 a 100000 al mese
+	zona europea: 2.2% + .35 cent
+	per qualsiasi altra valuta: 
+	se il pagamento avviene tramite prepagata o carta di credito:
+
+Associazione:
+	zona europea: 1.8% + .35 cent
+	per qualsiasi altra valuta:
+	se il pagamento avviene tramite prepagata o carta di credito:
+
+MICROPAGAMENTI
+
+Per transazione < 5€
+	zona europea: 5% + .10 cent
+	
+per transazione fino a 6€
+	zona europea: 2%
+	
+
+pagamento dall'estero in valuta euro: 1.3%
+dall'estero in valuta dollaro: 0.4% 1.8%
+
+KICKSTARTER
+
+5% sul totale
+per transazione: 3% + 0.20€
+per transazioni inferiori a 10€: 5% + 0.05€
